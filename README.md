@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Chris-Kasongo-Lazarius-Mukengeshayi
+- I'm proficient in speaking, writting both (english and french) as a native language.
 - 👀 I’m interested in venturing, creating & innovating computer projects (both software and hardware).
 - 🌱 I’m currently open for learning and working on software projects.
 - 💞️ I’m looking to collaborate on various software projects which catch my interest.
