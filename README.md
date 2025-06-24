@@ -13,6 +13,7 @@
 - Certification: https://alison.com/certification/check/64ab62ed8a
 - Certification: https://coursera.org/verify/7AWB3V021ZMH
 - Certification: https://coursera.org/verify/12G9LX2QICS9
+- Certification: https://dashboard.getleveraged.com/certificates/685a496a13d32d856eac852b
 
 Chris-Kasongo-Lazarius-Mukengeshayi a ✨ professional full stak software developer, QA manual & automation tester, innovator, product owner of a number of software ✨
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
